@@ -18,8 +18,8 @@ close the file.
 7. Stop the program.
 
 ## PROGRAM:
-
 ```
+
 #include<sys/stat.h>
 #include<stdio.h>
 #include<fcntl.h>
